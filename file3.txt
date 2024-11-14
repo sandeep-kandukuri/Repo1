@@ -1,1 +1,2 @@
 this is file3
+this is second line of file3
